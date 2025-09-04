@@ -1,4 +1,4 @@
-# Análisis de ventas de julio — Farmacias LV
+# Análisis de ventas de julio — Farmacias LV con SQL
 
 ### Contexto
 
