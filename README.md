@@ -14,8 +14,6 @@ En tu análisis descubres que:
 - Hay días con ventas **inferiores a 3 000 MXN**. Estos días se agrupan alrededor de dos fines de semana consecutivos de julio. Las sucursales “Sucursal 1” y “Sucursal 2” son las más afectadas.
 - Algunos vendedores tienen tickets promedio muy bajos, lo que indica que en esos horarios atendieron menos clientes o vendieron productos de bajo valor.
 
-Esto es como cuando preparas un desayuno con poca energía: si no hay suficiente gente en la cocina (sucursales con menos personal) o si los ingredientes son los mismos de siempre (ofertas monótonas), el resultado es un plato que no sorprende ni satisface. En julio, Farmacias LV dejó de sorprender a sus clientes y se relajó en la atención durante las tardes.
-
 ### Conclusiones y acciones recomendadas
 
 1. **Horario vespertino bajo rendimiento**. El análisis mostró que la caída de ventas se concentró de 15:00 a 22:00. Podría deberse a menor personal disponible o a que los empleados están cansados después del turno matutino.
